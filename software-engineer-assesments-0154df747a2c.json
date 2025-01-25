@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "software-engineer-assesments",
+  "private_key_id": "0154df747a2c8998208fee8bcf1429128324ed8e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCN7VwC0iRs05KU\n15cS1K5mj8qNOFlJ8kP6phnzWzISGO8CSkB39ZiAaewq/SMhWcnbsWCw8efVV3cy\naezn3D1t82pYxkgAIhhYJJrbVurfRJ3zwPXGs6UapbIQkswihQopM1fbTw4cGPhG\nTyvWzaAMnhqSKnLYSH7AzxKG5A+asqthPX9SmOa4kXEDOAQ1+maJJElRwuUNklkI\ngTDG88qhMyfnBPn7X5PuOoJNQvXtFWM21vfQNpABvJwFE8Q6FTNBCQCD4a5Vo2sk\nuZpmd3d4UptAVTpgBSh2mI1u64dMcbyMd6PE7ZE5Hvj84i7VAfcPK9NM88jNU+ty\naZDkNQOdAgMBAAECggEACG7QBsLhsy2nCfz9VvsYGbP1fwqYE5K3g08XP6RthzHA\nEczDo90N4KNqiutbiQHCwrD5Y8ob0ktOI8qzbtthMwVBjmDJqmhcNfCG2v2BGx8C\nm5cdg17tMnYh7GYshuiMwAHy+G7sEbNSHStbGXpCRj2mqoSnKj60eVRUb3thifl5\nFt5yufh/uFxlIvEu+MqsSC7Czftdd/0VEub9nULPcSWf/VVoSftoZGVYqe3ltMb3\nNrgP61IGUa/BPIVNDsEjqi+jeB95QQELFa528/09/FcY56UnXB/VXrTOKQQ1QIEw\njMf/hptyLINVxZBUJYm9ejdZoLSUCjh1gdrKFQ0bKQKBgQDFiwGmYL87Rx6uRumF\n4ahKIaYmnrjWX49f0anidT63RV36sj5i9J2bVylnGCqpaDWFbds/Dwi4pX65A3Td\nEwLRo/6sT2EUbnsAoXG/Vto7H8l1x90YpbuXkOAyKReQ9Ynf9bejU1D9b7ARo7TW\nzWEcjhZpg0GjMmv4CBv6zoPtEwKBgQC37SR4RrVmfSSPgBDVPf3j8PTuttdXK4r9\nbDgtCX6YSs0U0YtyYeVyfS59Nfp51jgXyliB91qze+yzQmg7sYMJKziAqZfIjGoF\nWozX4CKxqEaIj5tNsN+fdOUivwhGf4FdtVmOJORyp842DGI4OCdLlWjI2O889PCl\njk9uYw7SjwKBgBqfIRnK7/qNGxVheRcR0hwrbLjHqyE4v5mqJ7rdEhagwomGe+Ha\nFWNZ27qJBzbNVGkm5OUaoZJAu1MzpAwnA7o835VZHTwjp2/uUeX3TnGpVv0IckNg\nEmfanlwkLYjbjjkgZB8em0uMQa4e4cAQ7YVroJmXlsDniqVicmLace0BAoGAIRxJ\n0nU4NskUidjOLvVH/X7lOQwlXAX0sYaH3mO1LIlavgKzDdZdzeyHL/dFriVIV9AP\neuYip+kJRYQQ654bLs1fEJp3Pp04gNo6PKqW1FCs0ey4UpYiy7vpfAXT4Y0Wpt38\nz0AI+DMJRmWYUPKa8FpnULDs8JZPtB4YYpDmnDUCgYB/fhpMr0GvnLdjyYQEZaB6\nTPj5yRR0mOV4voltTXIjFwoeEx8Zwq8//fjXm6j9L3gjp28N5qqWi8H0RstYN6B5\nTBntY/I3xg46aiuKr6+gOYVirCwu3iVL3FgEML05ZylTLuf+3WWMVQHmx5wFBL9M\nSLsp4rzI9u3huTBrk+4csA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "automation-service-account@software-engineer-assesments.iam.gserviceaccount.com",
+  "client_id": "107268610992710577072",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/automation-service-account%40software-engineer-assesments.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
